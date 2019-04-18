@@ -1,1 +1,1 @@
-# javacore
+# javacore-notes
