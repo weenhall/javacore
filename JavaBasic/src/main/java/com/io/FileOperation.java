@@ -3,9 +3,7 @@ package com.io;
 import org.apache.commons.io.FileUtils;
 
 import java.awt.*;
-import java.awt.image.BufferedImage;
 import java.io.*;
-import java.lang.reflect.Field;
 import java.net.URL;
 import java.nio.channels.Channels;
 import java.nio.channels.FileChannel;
