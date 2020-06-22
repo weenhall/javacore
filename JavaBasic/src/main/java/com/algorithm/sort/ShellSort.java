@@ -1,4 +1,4 @@
-package com.sort;
+package com.algorithm.sort;
 
 /**
  * 希尔排序，插入排序的改进版，又称缩小增量排序

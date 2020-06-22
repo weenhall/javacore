@@ -1,7 +1,7 @@
-package com.sort;
+package com.algorithm.sort;
 
 import java.util.Arrays;
-import java.util.List;
+
 class SortAlgorithm {
 
     static void print(Integer [] arr) {
